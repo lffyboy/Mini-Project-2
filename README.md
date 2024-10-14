@@ -20,6 +20,7 @@ Jika kita masuk sebagai pembeli makan akan ada menu pembeli yang berupa:
 
 
 Penjelasan Python
+
 1. Melakukan Login
 
 - Sebagai Admin
@@ -28,7 +29,8 @@ Penjelasan Python
 
 - Sebagai Pembeli
 
-ssan
+![Screenshot 2024-10-14 210423](https://github.com/user-attachments/assets/efcea010-c556-4df4-a9f7-bb042262ccb7)
+
 
 
 2. Tampilan Menu
@@ -49,6 +51,42 @@ Ada 5 menu yang ditampilkan jika login sebagai admin yaitu :
    Disini kita bisa melihat paket-paket apa saja yang ada di pencucian kita beserta harganya.
 
 ![Screenshot 2024-10-14 202249](https://github.com/user-attachments/assets/7dc5bafa-5e5d-4e9d-9fa7-89377b5804bd)
+
+3.  Update Paket (Jika kita ingin merubah paket dan harga di pencucian kita)
+   Disini kita bisa mengupdate/memperbarui paket-paket beserta harganya yang tersedia di pencucian kita dengan cara memilih nomor paket yang ingin dirubah, kemudian masukkan nama paket yang baru beserta harganya.
+
+![Screenshot 2024-10-14 210009](https://github.com/user-attachments/assets/3e8b111c-bb55-49c6-9719-d34a03122882)
+
+4.  Hapus Paket (Untuk mengapus paket yang tersedia di pencucian kita)
+   Disini kita bisa menghapus paket-paket di pencucian kita beserta harganya.
+
+![Screenshot 2024-10-14 210220](https://github.com/user-attachments/assets/6ec112ee-9750-4d5a-8c5f-82c12711732d)
+
+5. Keluar
+   Ini adalah menu bila semua urusan kita telah selesai.
+
+
+- Sebagai Pembeli
+
+![Screenshot 2024-10-14 210423](https://github.com/user-attachments/assets/76317d7a-67c1-4b5a-9769-b36ab51c3a8b)
+
+Ada 3 menu yang ditampilkan jika kita login sebagai pembeli yaitu:
+
+1. Lihat paket pencucian
+   Disini pembeli bisa melihat apa saja paket-paket yang ditawarkan beserta harga-harganya di Pencucian Lutpi CleaningFasttt!.
+
+![Screenshot 2024-10-14 210811](https://github.com/user-attachments/assets/3e9afb01-dc8e-484a-8523-cd2248e70fc3)
+
+2. Pilih paket pencucian
+   Ketika pembeli telah melihat paket dan harga yang ditawarkan, di menu inilah mereka bisa memilih ingin mengambil nomor paket yang mana. Setelah memilih nomor paket tersebut kemudian mereka akan memasukkan jumlah motor yang akan dicuci. Setelah semua itu diisi makan akan keluar jumlah harga yang dibayar untuk transaksi tersebut.
+
+![Screenshot 2024-10-14 211227](https://github.com/user-attachments/assets/997dfdd4-d69f-4d59-b5e5-c58c0d748ab1)
+
+3. Keluar
+Ini adalah menu ketika semua keperluan pembeli telah terpenuhi.
+
+
+
 
 
 
