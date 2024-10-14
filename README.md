@@ -32,6 +32,7 @@ ssan
 
 
 2. Tampilan Menu
+   
    Ada 2 tampilan menu yaitu sebagai admin dan pembeli yang akan saya jelaskan masing-masing.
 
 - Sebagai Admin
@@ -40,10 +41,17 @@ ssan
 
 Ada 5 menu yang ditampilkan jika login sebagai admin yaitu :
 1. Tambah Paket (Jika kita ingin menambah paket/layanan pada pencucian kita)
+   Disini kita bisa menambah paket untuk pencucian kita dengan menentukan nama paket yang baru dan harganya.
+
+![Screenshot 2024-10-14 201958](https://github.com/user-attachments/assets/56cec2ca-a738-49f9-af60-d890c3a8ed2c)
+
 2. Lihat Paket (Untuk melihat paket-paket yang tersedia di pencucian kita)
-3. Update Paket (Jika kita ingin merubah paket dan harga di pencucian kita)
-4. Hapus Paket (Untuk mengapus paket yang tersedia di pencucian kita)
-5. Keluar
+   Disini kita bisa melihat paket-paket apa saja yang ada di pencucian kita beserta harganya.
+
+![Screenshot 2024-10-14 202249](https://github.com/user-attachments/assets/7dc5bafa-5e5d-4e9d-9fa7-89377b5804bd)
+
+
+
 
 
 
